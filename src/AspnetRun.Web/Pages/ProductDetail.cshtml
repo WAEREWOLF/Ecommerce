@@ -1,0 +1,110 @@
+﻿@page
+@model AspnetRun.Web.Pages.ProductDetailModel
+@{
+    ViewData["Title"] = "Product Detail";
+}
+
+
+<!-- Single Product Section Start -->
+<div class="product-section section mt-90 mb-90">
+    <div class="container">
+        
+        <div class="row mb-90">
+
+            <div class="col-lg-6 col-12 mb-50">
+
+                <!-- Image -->
+                <div class="single-product-image thumb-right">
+
+                    <div class="tab-content">
+                        <div id="single-image-1" class="tab-pane fade show active big-image-slider">
+                            <div class="big-image"><img src="assets/images/product/@Model.Product.ImageFile" alt="Big Image"><a href="assets/images/product/@Model.Product.ImageFile" class="big-image-popup"><i class="fa fa-search-plus"></i></a></div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="col-lg-6 col-12 mb-50">
+
+                <!-- Content -->
+                <div class="single-product-content">
+
+                    <!-- Category & Title -->
+                    <div class="head-content">
+
+                        <div class="category-title">
+                            <a href="#" class="cat">@Model.Product.Category.Name</a>
+                            <h5 class="title">@Model.Product.Name</h5>
+                        </div>
+
+                        <h5 class="price">$@Model.Product.UnitPrice</h5>
+
+                    </div>
+
+                    <div class="single-product-description">
+
+                        <div class="ratting">
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star-o"></i>
+                        </div>
+
+                        <div class="desc">
+                            <p>@Model.Product.Description</p>
+                            <a href="@Model.Product.Summary"><b>Specification file</b></a>
+                        </div>
+
+                        <span class="availability">Availability: <span>In Stock</span></span>
+
+                        <div class="actions">
+                           
+                            <form asp-page-handler="AddToCart" method="post" name="addToCartForm" id="add_cart_form">
+                                <a href="javascript:;" onclick="parentNode.submit();" class="add-to-cart"><i class="ti-shopping-cart"></i><span>ADD TO CART</span></a>
+                                <input type="hidden" asp-for="@Model.Product.Id" name="productId" />
+                            </form>
+                            <div class="wishlist-compare">                                
+                                <form asp-page-handler="AddToWishlist" method="post" name="AddToWishlistForm" id="add_wishlist_form">
+                                    <a href="javascript:;" onclick="parentNode.submit();" data-tooltip="Wishlist"><i class="ti-heart"></i></a>
+                                    <input type="hidden" asp-for="@Model.Product.Id" name="productId" />
+                                </form>
+                            </div>
+
+                        </div>
+
+                        <div class="tags">
+
+                            <h5>Tags:</h5>
+                            <a href="#">Electronic</a>
+                            <a href="#">Smartphone</a>
+                            <a href="#">Phone</a>
+                            <a href="#">Charger</a>
+                            <a href="#">Powerbank</a>
+
+                        </div>
+
+                        <div class="share">
+
+                            <h5>Share: </h5>
+                            <a href="#"><i class="fa fa-facebook"></i></a>
+                            <a href="#"><i class="fa fa-twitter"></i></a>
+                            <a href="#"><i class="fa fa-instagram"></i></a>
+                            <a href="#"><i class="fa fa-google-plus"></i></a>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        
+</div>
+<!-- Single Product Section End -->

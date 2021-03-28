@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "gSrRAWyaOFQrS35ApS3TSA9DUuq6n+kUnM9VphaSyQtAxUGsQXUspyvI7NPZC9e/OY0qBqNdVoPMcpB8Qyl6Fw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ANGHEL PAUL\\Source\\Repos\\Ecommerce\\src\\AspnetRun.Application\\AspnetRun.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ANGHEL PAUL\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\ANGHEL PAUL\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\ANGHEL PAUL\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

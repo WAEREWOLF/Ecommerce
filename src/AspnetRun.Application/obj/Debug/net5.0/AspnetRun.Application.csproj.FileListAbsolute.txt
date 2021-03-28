@@ -1,0 +1,15 @@
+C:\Users\ANGHEL PAUL\Source\Repos\run-aspnetcore-realworld\src\AspnetRun.Application\bin\Debug\net5.0\AspnetRun.Application.deps.json
+C:\Users\ANGHEL PAUL\Source\Repos\run-aspnetcore-realworld\src\AspnetRun.Application\bin\Debug\net5.0\AspnetRun.Application.dll
+C:\Users\ANGHEL PAUL\Source\Repos\run-aspnetcore-realworld\src\AspnetRun.Application\bin\Debug\net5.0\ref\AspnetRun.Application.dll
+C:\Users\ANGHEL PAUL\Source\Repos\run-aspnetcore-realworld\src\AspnetRun.Application\bin\Debug\net5.0\AspnetRun.Application.pdb
+C:\Users\ANGHEL PAUL\Source\Repos\run-aspnetcore-realworld\src\AspnetRun.Application\bin\Debug\net5.0\AspnetRun.Core.dll
+C:\Users\ANGHEL PAUL\Source\Repos\run-aspnetcore-realworld\src\AspnetRun.Application\bin\Debug\net5.0\AspnetRun.Core.pdb
+C:\Users\ANGHEL PAUL\Source\Repos\run-aspnetcore-realworld\src\AspnetRun.Application\obj\Debug\net5.0\AspnetRun.Application.csprojAssemblyReference.cache
+C:\Users\ANGHEL PAUL\Source\Repos\run-aspnetcore-realworld\src\AspnetRun.Application\obj\Debug\net5.0\AspnetRun.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANGHEL PAUL\Source\Repos\run-aspnetcore-realworld\src\AspnetRun.Application\obj\Debug\net5.0\AspnetRun.Application.AssemblyInfoInputs.cache
+C:\Users\ANGHEL PAUL\Source\Repos\run-aspnetcore-realworld\src\AspnetRun.Application\obj\Debug\net5.0\AspnetRun.Application.AssemblyInfo.cs
+C:\Users\ANGHEL PAUL\Source\Repos\run-aspnetcore-realworld\src\AspnetRun.Application\obj\Debug\net5.0\AspnetRun.Application.csproj.CoreCompileInputs.cache
+C:\Users\ANGHEL PAUL\Source\Repos\run-aspnetcore-realworld\src\AspnetRun.Application\obj\Debug\net5.0\AspnetRun.Application.csproj.CopyComplete
+C:\Users\ANGHEL PAUL\Source\Repos\run-aspnetcore-realworld\src\AspnetRun.Application\obj\Debug\net5.0\AspnetRun.Application.dll
+C:\Users\ANGHEL PAUL\Source\Repos\run-aspnetcore-realworld\src\AspnetRun.Application\obj\Debug\net5.0\ref\AspnetRun.Application.dll
+C:\Users\ANGHEL PAUL\Source\Repos\run-aspnetcore-realworld\src\AspnetRun.Application\obj\Debug\net5.0\AspnetRun.Application.pdb

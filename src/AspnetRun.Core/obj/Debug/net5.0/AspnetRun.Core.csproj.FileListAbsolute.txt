@@ -1,0 +1,12 @@
+C:\Users\ANGHEL PAUL\Source\Repos\run-aspnetcore-realworld\src\AspnetRun.Core\bin\Debug\net5.0\AspnetRun.Core.deps.json
+C:\Users\ANGHEL PAUL\Source\Repos\run-aspnetcore-realworld\src\AspnetRun.Core\bin\Debug\net5.0\AspnetRun.Core.dll
+C:\Users\ANGHEL PAUL\Source\Repos\run-aspnetcore-realworld\src\AspnetRun.Core\bin\Debug\net5.0\ref\AspnetRun.Core.dll
+C:\Users\ANGHEL PAUL\Source\Repos\run-aspnetcore-realworld\src\AspnetRun.Core\bin\Debug\net5.0\AspnetRun.Core.pdb
+C:\Users\ANGHEL PAUL\Source\Repos\run-aspnetcore-realworld\src\AspnetRun.Core\obj\Debug\net5.0\AspnetRun.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANGHEL PAUL\Source\Repos\run-aspnetcore-realworld\src\AspnetRun.Core\obj\Debug\net5.0\AspnetRun.Core.AssemblyInfoInputs.cache
+C:\Users\ANGHEL PAUL\Source\Repos\run-aspnetcore-realworld\src\AspnetRun.Core\obj\Debug\net5.0\AspnetRun.Core.AssemblyInfo.cs
+C:\Users\ANGHEL PAUL\Source\Repos\run-aspnetcore-realworld\src\AspnetRun.Core\obj\Debug\net5.0\AspnetRun.Core.csproj.CoreCompileInputs.cache
+C:\Users\ANGHEL PAUL\Source\Repos\run-aspnetcore-realworld\src\AspnetRun.Core\obj\Debug\net5.0\AspnetRun.Core.dll
+C:\Users\ANGHEL PAUL\Source\Repos\run-aspnetcore-realworld\src\AspnetRun.Core\obj\Debug\net5.0\ref\AspnetRun.Core.dll
+C:\Users\ANGHEL PAUL\Source\Repos\run-aspnetcore-realworld\src\AspnetRun.Core\obj\Debug\net5.0\AspnetRun.Core.pdb
+C:\Users\ANGHEL PAUL\Source\Repos\run-aspnetcore-realworld\src\AspnetRun.Core\obj\Debug\net5.0\AspnetRun.Core.csprojAssemblyReference.cache
